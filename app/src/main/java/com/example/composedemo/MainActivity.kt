@@ -34,7 +34,11 @@ class MainActivity : ComponentActivity() {
            // ZLImage()
             //ZLImage2()
             //ZLImage3()
-            ZLTextField()
+            //ZLTextField()
+            //ZLBaseField()
+            //ZLButton()
+            //ZLDialog()
+            ZLDialog1()
 //            ComposeDemoTheme {
 //                // A surface container using the 'background' color from the theme
 //                Surface(
